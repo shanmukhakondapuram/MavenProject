@@ -12,6 +12,7 @@ public class SampleTest {
 		@Test
 		private void PrintNumbers() {
 			System.out.println("Printing the numbers");
+			System.out.println("GitHUb Commit - Printing the numbers");
 		}
 
 	
